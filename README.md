@@ -67,7 +67,7 @@ Combined skill demand and average annual salary to identify valuable skills for 
 
 This analysis highlights skills that offer a strong combination of market demand and earning potential.
 
-**Results:** [Optimal Skills to Learn](results/optimal_skill_to_learn.csv)
+**Results:** [Optimal Skills to Learn](results/optimal_skills_to_learn.csv)
 
 # What I Learned
 
