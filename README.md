@@ -29,9 +29,13 @@ The analysis consists of five main SQL queries, each addressing a specific resea
 
 Identified the 10 highest-paying Data Analyst job postings based on average annual salaries. The results highlight opportunities such as Data Analyst at Mantys ($650,000), Director of Analytics at Meta ($336,500), and Associate Director – Data Insights at AT&T ($255,829.50).
 
+**Results:** [Top-Paying Jobs](results/top_paying_jobs.csv)
+
 ### 2. Skills Required for Top-Paying Data Analyst Jobs
 
 Examined the technical skills associated with the highest-paying positions. SQL appeared in eight distinct job postings, followed by Python in seven and Tableau in six. Other frequently appearing skills included R, Excel, Pandas, Snowflake, and Power BI.
+
+**Results:** [Skills Required for Top-Paying Jobs](results/top_paying_jobs_skills.csv)
 
 ### 3. Top-Demanded Data Analyst Skills
 
@@ -47,17 +51,23 @@ Identified the five most frequently requested skills in remote Data Analyst job 
 
 SQL leads the list by a considerable margin, demonstrating its importance in the Data Analyst job market.
 
+**Results:** [Top-Demanded Skills](results/top_demanded_skills.csv)
+
 ### 4. Top-Paying Data Analyst Skills
 
 Ranked skills according to their average annual salaries in remote Data Analyst job postings. PySpark ranked first ($208,172), followed by Bitbucket ($189,155), Watson ($160,515), Couchbase ($160,515), and DataRobot ($155,486).
 
 These results highlight the salary potential associated with specialized technologies and advanced technical skills.
 
-### 5. Most Optimal Skills to Learn
+**Results:** [Top-Paying Skills](results/top_paying_skills.csv)
+
+### 5. Optimal Skills to Learn
 
 Combined skill demand and average annual salary to identify valuable skills for aspiring Data Analysts. SQL ranked first with 398 job postings and an average salary of $97,237, followed by Excel (256 postings, $87,288), Python (236 postings, $101,397), and Tableau (230 postings, $99,288).
 
 This analysis highlights skills that offer a strong combination of market demand and earning potential.
+
+**Results:** [Optimal Skills to Learn](results/optimal_skill_to_learn.csv)
 
 # What I Learned
 
